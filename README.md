@@ -1,2 +1,3 @@
 # primeraClaseJs
-### Priemra clase de JS comienza el dolor
+### Primera clase de JS comienza el dolor
+### Segunda clase de JS se siguio sufriendo
