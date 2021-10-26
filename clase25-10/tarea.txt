@@ -1,0 +1,11 @@
+1. hacer estructura else/if que nos diga si hace frío o calor(acuerdense de ponerle el signo a la temperatura cuando la impriman eh!)
+
+2. hacer una mas simple que solo sea frío o calor (ternario)
+
+3. hacer un if/else que nos devuelva el animal que es de acuerdo al ruido que hace
+
+4. Pasar lo del 11b a ternarios
+
+5. hacer varias comparaciones.
+
+6. Hacer un if con mayor y menor, y otro que de los mismos resultados pero con mayor o igual y menor o igual
