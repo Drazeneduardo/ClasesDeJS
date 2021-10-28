@@ -1,0 +1,7 @@
+01. Transformar el ejercicio de clima y el de animales a switch
+
+02. hacer un switch con frutas
+
+03. hacer un switch que evalue el clima con diferentes rangos
+
+04. pasar todos los ejercicios que hicimos a funciones, tanto con function 
