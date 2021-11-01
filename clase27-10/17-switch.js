@@ -3,7 +3,7 @@
 const alien = {
     ojos: 2,
     idioma: "ingles", 
-    planeta: "Mandalore"
+    planeta: "Tatooine"
 };
 
 switch(alien.ojos) {
@@ -29,8 +29,13 @@ switch(alien.ojos) {
 //* el switch pasa en los parentesis el key, y en el case el valor
 
 switch(alien.planeta){
-    case "Tattoine":
+    case "Tatooine":
         console.log("es un desierto")
+        break;
     case "Mandalore":
-        console.log("This is the way")    
+        console.log("This is the way") 
+        break;
+        
+        default: 
+        console.log("no se de que planeta es")   
 }

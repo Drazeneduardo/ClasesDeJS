@@ -1,4 +1,4 @@
-const age = 16;
+const age = 18;
  //* no evalua age si no true porque evalua si es verdad que esta en el rango
 switch (true) {
   case age < 2:
@@ -13,9 +13,9 @@ switch (true) {
   case age >= 13 && age < 18:
     console.log("secundaria");
     break;
-  case age > 18:
+  case age >= 18:
     console.log("universidad");
+    break;
   default:
       console.log('la cagamos')
-    break;
 }
