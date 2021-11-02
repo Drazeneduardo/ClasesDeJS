@@ -18,7 +18,20 @@ for (let j = 0; ; j+=2) {
 const num = 25
 
 for (let k = 0; k < num; ) {
-    k += 2;
+    k += 2; //con esta se va a pasar uno, porque incrementa, imprime, y recién ahi chequea
     console.log('k', k)
     
+}
+//*modo pesadilla:
+let l = 1; //primer termino
+
+for (;;) {
+  if (l > 10) break; //segundo termino
+  console.log("l: ", l); //accion
+  l += 2; //incremento (3er termino)
+}
+
+//*sería igual a:
+for (let m = 1; m < 10; m += 2) {
+  console.log("m:", m);
 }
