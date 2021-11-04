@@ -5,3 +5,4 @@
 ### Cuarta clase de JS se sufrió pero no tanto como en las anteriores, es un avance
 ### Se practico 1/11
 ### Quinta clase de JS, forLoops y fue sufrido no voy a mentir pero se va mejorando
+### Sexta clase de JS, vimos arrays entendí bastante bien, tengo que seguir practicando
