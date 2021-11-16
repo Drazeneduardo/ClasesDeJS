@@ -8,7 +8,7 @@ console.log(unShiftArr(animales))
 console.log(animales)
 console.log(animales[4])
 
-//* splice es un poco distinto: tiene dos parametros, posicio y cantidad. Tercer parametro sería con que reemplaza
+//* splice es un poco distinto: tiene dos parametros, posicion y cantidad. Tercer parametro sería con que reemplaza
 
 const spliceArr = b => b.splice(0, 2)
 console.log( 'saco' ,spliceArr(comidas))

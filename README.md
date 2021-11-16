@@ -6,3 +6,5 @@
 ### Se practico 1/11
 ### Quinta clase de JS, forLoops y fue sufrido no voy a mentir pero se va mejorando
 ### Sexta clase de JS, vimos arrays entendí bastante bien, tengo que seguir practicando
+
+### Dia 15-11 vimos Dates y objects

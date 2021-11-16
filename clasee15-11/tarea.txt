@@ -1,0 +1,16 @@
+1. Devolver cib ToLocateDateString su fecha de nacimiento en formatos:
+*weekday : short, year: 2-digits, month 2-digit, day: 2-digit
+* lo mismo pero con hora
+*weekday: long y el resto numeric
+
+obviamente cada uno en una funcion diferente ;)
+
+02. Desafío extra: pasarle una fecha unix y que la devuelva en algun formato legible con el ToLocateDateString
+
+03. crear un objeto auto con diferentes valores adentro y con metodos..
+
+04. La funcion add en objects-c
+
+05. repetir el ejemplo del 02d loqueando toda la descripcion de un gato.
+05b. de un hotel. (hacer dos metodos distintos)
+05c. de una compuradora
