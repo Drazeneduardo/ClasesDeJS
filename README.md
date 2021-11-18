@@ -8,3 +8,5 @@
 ### Sexta clase de JS, vimos arrays entendí bastante bien, tengo que seguir practicando
 
 ### Dia 15-11 vimos Dates y objects
+
+### Día 18-11 se realizo la tarea y se practico con constructores y el DOM
