@@ -15,6 +15,5 @@ new Date()      // A new Date object */
 const hoy = new Date()
 console.log(hoy)
 //no hacer esto
-
 const nombre = new String('Drazen')
 console.log(nombre)

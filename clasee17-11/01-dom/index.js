@@ -16,7 +16,7 @@ title.innerHTML = 'Hola desde js!'
 
 //* esto no va a andar:
 cajita.innerHTML = 'somos los divs'
-//* lo que tenemos es una lista de nodos(basicamente es un array). Como accederiamos podemos ir con posición 
+//* lo que tenemos es una lista de nodos(basicamente es un array). Como accederiamos, podemos ir con posición 
 cajita[0].innerHTML = 'soy el primer div'
 cajita[1].innerHTML = Date()
 cajita[2].style.color = "blue"
