@@ -18,7 +18,7 @@ const gato = {
         console.log(`este gato se llama ${nombre}`)//nombre no esta definido
     }
     ,descripcion2: function(){
-        console.log(`este gato se llama ${this.nombre}`)//this en este caso, se refiere al objeto en que estamos, En contaxto
+        console.log(`este gato se llama ${this.nombre}`)//this en este caso, se refiere al objeto en que estamos, En contexto
     },
 
     //con flechas bueno, no
@@ -39,5 +39,5 @@ const gato = {
 //gato.descripcion() Esto da error
 gato.descripcion2()// la unica que va a andar
 gato.caracteristicas()
-
+//* la unica forma de usar flecha y no suele justificar cosas puntuales
 gato.edades()

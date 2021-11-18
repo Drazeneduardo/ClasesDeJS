@@ -18,8 +18,8 @@ let options = {
     month : "long",
     day : "numeric" ,
     //podemos pasar cuantos parametros quisieramos
-    //hour: "numeric",
-    //minute: "numeric",
+    hour: "numeric",
+    minute: "numeric",
     //second: "numeric"
 }
 

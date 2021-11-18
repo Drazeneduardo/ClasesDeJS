@@ -1,0 +1,13 @@
+01. crear un constructor y hacer 5 comidas diferentes con él.
+02. crear un html con: 
+    *1 h1
+    *2 h2
+    *3 párrafos
+    *2 links
+y con js modificarle los estilos para que quede bonito. Cambiar con el innerHTML el título!
+
+03. Crear un alert que antes de mostrar ese html nos salude!
+04. consologuear algún mensaje copado.
+
+05. Hacer un html con varios elementos, y con js poner nuestro nombre en el h1, y nuestro cumpleaños en un h2.
+Poner varios párrafos y que cada uno tenga un estilo diferente! elegir si tomarlos por tag o por class.
