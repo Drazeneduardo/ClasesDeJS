@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>Eventos</title>
+</head>
+<body>
+     <!--Hay dos tipos de eventos: de browser y de DOM-->
+    <!--https://www.w3schools.com/js/js_events.asp-->
+    <h1>Vamos a hablar de eventos</h1>
+   
+    <!--apretando hora, lo que hago es llenar el innerHTML del div que esta vacio, entonces el click se hace en un elemento, pero la función afecta a otro, ergo, tenemos que capturar los dos en el js-->
+
+    <!--//*https://www.w3schools.com/jsref/prop_html_innerhtml.asp
+-->
+    <button id="hora" onclick="hora()">¿Que hora es?</button>
+    <div id="horario"></div>
+
+    <button id="hora2" onclick="hora2()">¿Que fecha es?</button>
+    <div id="horario2"></div>
+
+    <br>
+    <br>
+
+    <div id="over" 
+    onmouseover="over()" 
+    onmouseout="chau()"
+    >No pases arriba mio
+    </div>
+
+    <script src="./index.js"></script>
+</body>
+</html>

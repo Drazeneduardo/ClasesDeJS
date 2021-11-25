@@ -1,0 +1,5 @@
+.appWrapper {
+  min-height: calc(100vh - 120px);
+}
+truco del footer, cmbiar el 120px por el tamaño de nuestro footer
+Con esto el footer va a aparecer cuando haga scroll hacia el final de la pagina, sirve para cuando la pagina es cortita
