@@ -11,3 +11,4 @@
 ### Dia 18-11 Practique un poco, hice un constructor y luego probe el DOM por mi cuenta
 ### Clase 24-11 vimos eventos, volvimos a tocar HTML gloria a Dios jajajaja, se estudia fuerte, vamos que si
 ### Clase 21-03, volvimos a clases
+### Clase 23-03, agregada
